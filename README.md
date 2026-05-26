@@ -16,7 +16,6 @@ This system is built using **React.js, Node.js, Express.js, and MongoDB Atlas**.
 - [Project Overview](#-project-overview)
 - [Key Features](#-key-features)
 - [📸 Screenshots](#-screenshots)
-- [🎥 Demo Video](#-demo-video)
 - [System Architecture](#-system-architecture)
 - [Tech Stack](#-tech-stack)
 - [Folder Structure](#-folder-structure)
@@ -28,14 +27,6 @@ This system is built using **React.js, Node.js, Express.js, and MongoDB Atlas**.
 - [License](#-license)
 - [Author](#-author)
 ---
-
-## 🎥 Demo Video
-
-Click below to watch the complete AutoGarage project demo:
-
-https://github.com/kunal37x37/AutoGarage-Online-Vehicle-Service-Booking-System-MERN-Stack-/blob/main/autogarage_Video%20(2).mp4
-
-> (This video is an MP4 uploaded directly into the GitHub repository)
 
 ## 🖼 Screenshots
 
