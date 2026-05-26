@@ -1,10 +1,5 @@
 # 🚗 AutoGarage – Online Vehicle Service & Booking System (MERN Stack)
 
-![GitHub stars](https://img.shields.io/github/stars/your-username/AutoGarage?style=flat&color=yellow)
-![GitHub forks](https://img.shields.io/github/forks/your-username/AutoGarage?style=flat&color=orange)
-![GitHub license](https://img.shields.io/badge/License-MIT-brightgreen)
-![Tech](https://img.shields.io/badge/TechStack-MERN-blue)
-
 AutoGarage is a **full-stack MERN application** that allows users to search nearby garages, explore services, and book appointments online.  
 Garage owners get a complete dashboard to manage garages, services, bookings, and customers.  
 This system is built using **React.js, Node.js, Express.js, and MongoDB Atlas**.
